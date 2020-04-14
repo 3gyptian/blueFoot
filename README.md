@@ -14,9 +14,7 @@ The MPU6050 power consumption is minimal can be powered directly from ESP32 GPIO
 </p>
 
 
-Using DOIT ESP32 board as described here:
-https://github.com/playelek/pinout-doit-32devkitv1
-
+Soldered MPU6050 board directly to DOIT ESP32 board (Pinout: https://github.com/playelek/pinout-doit-32devkitv1)
 
 ```
 GY-521   GPIO PIN
