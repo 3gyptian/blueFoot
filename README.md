@@ -17,6 +17,7 @@ Using DOIT ESP32 board as described here:
 https://github.com/playelek/pinout-doit-32devkitv1
 
 
+```
 GY-521   GPIO PIN
 VCC  ==>  21 (OUTPUT set to HIGH)
 GND  ==>  19 (OUTPUT set to LOW)
@@ -26,6 +27,7 @@ XDA  ==>  17 (not used - INPUT)
 XCL  ==>  16 (not used - INPUT)
 ADD  ==>  4  (not used - INPUT)
 INT  ==>  2  (not used - INPUT)
+```
 
 
 
