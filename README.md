@@ -10,7 +10,7 @@ Assembly:
 The MPU6050 power consumption is minimal can be powered directly from ESP32 GPIO pins. This allows for quick and easy direct soldering to rear of ESP32 as shown:
 
 <p align='center'>
-<img src='https://github.com/3gyptian/blueFoot/blob/master/IMG_8743.JPG' width='900'/>
+<img src='https://github.com/3gyptian/blueFoot/blob/master/IMG_8743.JPG' width='300'/>
 </p>
 
 
