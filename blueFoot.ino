@@ -1,9 +1,9 @@
 /**
- * This example turns the ESP32 into a Bluetooth LE keyboard that writes the words, presses Enter, presses a media key and then Ctrl+Alt+Delete
+ * Bluefoot - control youtube with a shake of your foot
  */
 
 #include <Arduino.h>
-#include <BleKeyboard.h>
+#include <BleKeyboard.h>  // https://github.com/T-vK/ESP32-BLE-Keyboard
 #include <FastLED.h>
 
 // MPU6050
